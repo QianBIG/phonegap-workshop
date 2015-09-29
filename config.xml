@@ -14,7 +14,8 @@
     <author href="http://wwww.qianbig.com" email="emc@qianbig.com">
         Enming Chen
     </author>
-
+    
+    <preference name="phonegap-version" value="3.1.0" />
     <preference name="android-minSdkVersion" value="10" />
     <!-- android: MIN SDK version supported on the target device. MAX version is blank by default. -->
     <preference name="android-targetSdkVersion" value="14" />
